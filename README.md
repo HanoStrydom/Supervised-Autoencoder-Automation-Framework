@@ -26,6 +26,19 @@ By outlining a systematic approach to automating these steps, the framework is d
 - Security Dataset ( [N-BaIoT](https://www.kaggle.com/datasets/mkashifn/nbaiot-dataset) )
 - Churn Dataset ( [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) )
 
+# Table of Content:
+
+| Folders / Files       |Description |
+| -------------- | -------------- | 
+| Dataset | Contains the original data as well as the split datasets used for training, validation, and testing. | 
+| Figures | Stores generated figures, such as feature importance plots and other visual outputs. | 
+| Framework | Contains all framework files in .ipynb format. | 
+| Results | Stores all experiment results, including individual trials and the best-performing models. | 
+| .env | The user configuration file where file paths and adjustable settings are specified. | 
+| .gitignore | Specifies files and folders to be excluded from GitHub, such as models and previous results. |
+| history_keys.txt| Contains the names of the training metrics (e.g., loss, accuracy) recorded during model training, which can be used to adjust performance goals. | 
+
+
 [//]: #
    [Hano Strydom]: [https://www.linkedin.com/in/hano-strydom/](https://www.linkedin.com/in/hano-strydom/)
    [Prof. Tiny du Toit]: [https://natural-sciences.nwu.ac.za/computer-sciences-and-information-systems/tiny-du-toit](https://natural-sciences.nwu.ac.za/computer-sciences-and-information-systems/tiny-du-toit)
