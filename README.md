@@ -9,7 +9,7 @@ By outlining a systematic approach to automating these steps, the framework is d
 
 | Name           | Student Number | Email                        |
 | -------------- | -------------- | ---------------------------- |
-| [Hano Strydom](https://scholar.google.com/citations?user=teMBdIIAAAAJ&hl=en&oi=ao) | 31597793       | Hano.Strydom@nwu.ac.za |
+| [Hano Strydom](https://scholar.google.com/citations?user=teMBdIIAAAAJ&hl=en&oi=ao) | 31597793       | HanoStrydom8@gmail.com |
 
 # Meet the Supervisors:
 
@@ -18,15 +18,7 @@ By outlining a systematic approach to automating these steps, the framework is d
 | [Prof. Tiny du Toit](https://scholar.google.com/citations?user=LdINRrAAAAAJ&hl=en&oi=ao) | Tiny.DuToit@nwu.ac.za       | Head Supervisor |
 | [Mr. Henri van Rensburg](https://natural-sciences.nwu.ac.za/computer-sciences-and-information-systems/henri-van-rensburg) | Henri.VanRensburg@nwu.ac.za | Cosupervisor    |
 
-# Datasets
-
-**Different datasets will be used:**
-
-- Telecommunication Dataset ( [UjiIndoorLoc](https://archive.ics.uci.edu/dataset/310/ujiindoorloc) )
-- Security Dataset ( [N-BaIoT](https://www.kaggle.com/datasets/mkashifn/nbaiot-dataset) )
-- Churn Dataset ( [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) )
-
-# Table of Content:
+# SAEAF Table of Content:
 
 | Folders / Files       |Description |
 | -------------- | -------------- | 
@@ -38,6 +30,19 @@ By outlining a systematic approach to automating these steps, the framework is d
 | .gitignore | Specifies files and folders to be excluded from GitHub, such as models and previous results. |
 | history_keys.txt| Contains the names of the training metrics (e.g., loss, accuracy) recorded during model training, which can be used to adjust performance goals. | 
 
+# Datasets
+
+**Datasets used throughout this study**
+
+- Telecommunication Dataset ( [UjiIndoorLoc](https://archive.ics.uci.edu/dataset/310/ujiindoorloc) )
+- Security Dataset ( [N-BaIoT](https://www.kaggle.com/datasets/mkashifn/nbaiot-dataset) )
+- Churn Dataset ( [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) )
+
+# Papers
+
+**This study has resulted in the publication and presentation of two full papers in peer-reviewed conference proceedings:**
+- [Detecting Network-based IoT Botnet Attacks using Supervised Autoencoders](https://www.researchgate.net/profile/Hano-Strydom-2/publication/388552579_Detecting_Network-based_IoT_Botnet_Attacks_using_Supervised_Autoencoders/links/679c9be5207c0c20fa6b0e9f/Detecting-Network-based-IoT-Botnet-Attacks-using-Supervised-Autoencoders.pdf)
+- [Improving Wi-Fi Fingerprinting with an Automated Supervised](https://www.researchgate.net/profile/Hano-Strydom-2/publication/388552241_Improving_Wi-Fi_Fingerprinting_with_an_Automated_Supervised_Autoencoder/links/679c9a2c52b58d39f25f35b6/Improving-Wi-Fi-Fingerprinting-with-an-Automated-Supervised-Autoencoder.pdf)
 
 [//]: #
    [Hano Strydom]: [https://www.linkedin.com/in/hano-strydom/](https://www.linkedin.com/in/hano-strydom/)
