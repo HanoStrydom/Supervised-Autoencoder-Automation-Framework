@@ -16,7 +16,7 @@ By outlining a systematic approach to automating these steps, the framework is d
 | Name                      | Email                       | Supervisors     |
 | ------------------------- | --------------------------- | --------------- |
 | [Prof. Tiny du Toit](https://scholar.google.com/citations?user=LdINRrAAAAAJ&hl=en&oi=ao) | Tiny.DuToit@nwu.ac.za       | Head Supervisor |
-| [Mr. Henri van Rensburg](https://natural-sciences.nwu.ac.za/computer-sciences-and-information-systems/henri-van-rensburg) | Henri.VanRensburg@nwu.ac.za | Cosupervisor    |
+| [Mr. Henri van Rensburg](https://natural-sciences.nwu.ac.za/computer-sciences-and-information-systems/henri-van-rensburg) | Henri.VanRensburg@nwu.ac.za | Co-supervisor    |
 
 # SAEAF Table of Content:
 
